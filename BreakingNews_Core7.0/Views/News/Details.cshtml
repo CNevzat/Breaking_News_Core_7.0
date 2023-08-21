@@ -1,0 +1,74 @@
+﻿@using BreakingNews_Core7._0.Models.Entity;
+@model News
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@*
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en">
+<head>
+    <title>Haber Detayı</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=windows-1252" />
+    <link rel="stylesheet" type="text/css" href="~/paradise-island-1983/css/style.css" />
+</head>
+<body>
+    <div id="centrecontainer">
+        <div id="outercontainer">
+            <div id="header">
+                <div id="headertitle">
+                    <h1>Detaylar<sup>@Model.Date.ToShortDateString()</sup></h1>
+                </div>
+            </div>
+            <div id="container">
+                <div id="containertext">
+                    <br />
+                    <br />
+                    <h1>@Model.Title</h1>
+                    <img src="@Model.ImageURL" style="border-radius:7px; border:1px; solid #bbb9b9; max-width:500px; max-block-size:500px; margin-left:10%" />
+                    <br />
+                    <br />
+                    <p>
+                       @Model.Content
+                       <br />
+                        <h5>Kategori: @Model.Category.Name</h5>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+*@
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Dark Grunge</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <link rel="stylesheet" type="text/css" href="~/dark-grunge/style.css" />
+</head>
+<body>
+    <div id="wrapper">
+        <div id="nav">
+            <h1>Detaylar... </h1>
+            <img src="@Model.ImageURL" alt="" style="border-radius:7px; border:1px; solid #bbb9b9;
+                             max-width:800px; max-height:300px;" />
+        </div>
+        <div id="content">
+            <h2>@Model.Title</h2>
+            <p>@Model.Content</p>
+            <h5>Kategori: @Model.Category.Name</h5>
+            <br />
+            <h5>Tarih: @Model.Date.ToShortDateString()</h5>
+        </div>
+    </div>
+</body>
+</html>
+

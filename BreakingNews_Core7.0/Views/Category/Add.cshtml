@@ -1,0 +1,21 @@
+﻿@using BreakingNews_Core7._0.Models.Entity;
+@model Category
+@{
+    ViewData["Title"] = "Add";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<form method="post">
+
+    <div class="border p-3 mt-5">
+        <div class="row pb-3 "><h2 class="text-primary">Kategori Ekle</h2><hr /></div>
+        <div class="mb-3">
+            <label asp-for="Name" class=" p-0"></label>
+            <input asp-for="Name" class="form-control" />
+        </div>
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Kategori Ekle</button>
+
+</form>
+

@@ -1,0 +1,1557 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\BreakingNews_Core7.0.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BreakingNews_Core7.0.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\404.html",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\404.html"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\READ-ME.txt"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\about.html",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\carpenter-website-template.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\carpenter-website-template.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\contact.html",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\css\\style.css",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\feature.html",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\feature.html"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\carousel-1.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\carousel-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\carousel-2.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\carousel-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\carousel-3.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\carousel-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\feature.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\feature.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\footer.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\footer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\portfolio-1.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\portfolio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\portfolio-2.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\portfolio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\portfolio-3.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\portfolio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\portfolio-4.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\portfolio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\portfolio-5.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\portfolio-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\portfolio-6.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\portfolio-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\quote.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\quote.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\service-1.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\service-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\service-2.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\service-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\service-3.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\service-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\service-4.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\service-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\service-5.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\service-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\service-6.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\service-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\index.html",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\js\\main.js",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\counterup\\counterup.min.js",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\counterup\\counterup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\isotope\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\isotope\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\isotope\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\isotope\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\lightbox\\css\\lightbox.css",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\lightbox\\css\\lightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\lightbox\\css\\lightbox.min.css",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\lightbox\\css\\lightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\lightbox\\images\\close.png",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\lightbox\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\lightbox\\images\\loading.gif",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\lightbox\\images\\loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\lightbox\\images\\next.png",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\lightbox\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\lightbox\\images\\prev.png",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\lightbox\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\lightbox\\js\\lightbox.js",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\lightbox\\js\\lightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\lightbox\\js\\lightbox.min.js",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\lightbox\\js\\lightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\lightbox\\links.php",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\lightbox\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\project.html",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\project.html"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\quote.html",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\quote.html"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\service.html",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\service.html"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\team.html",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\team.html"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\carpenter-website-template\\testimonial.html",
+      "PackagePath": "staticwebassets\\carpenter-website-template\\testimonial.html"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dark-grunge\\images\\back.jpg",
+      "PackagePath": "staticwebassets\\dark-grunge\\images\\back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dark-grunge\\images\\headline_back.jpg",
+      "PackagePath": "staticwebassets\\dark-grunge\\images\\headline_back.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dark-grunge\\images\\line.jpg",
+      "PackagePath": "staticwebassets\\dark-grunge\\images\\line.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dark-grunge\\images\\main.jpg",
+      "PackagePath": "staticwebassets\\dark-grunge\\images\\main.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dark-grunge\\index.html",
+      "PackagePath": "staticwebassets\\dark-grunge\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dark-grunge\\style.css",
+      "PackagePath": "staticwebassets\\dark-grunge\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\dorang\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\README.txt",
+      "PackagePath": "staticwebassets\\dorang\\README.txt"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\gulpfile.js",
+      "PackagePath": "staticwebassets\\dorang\\gulpfile.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\package.json",
+      "PackagePath": "staticwebassets\\dorang\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\css\\dorang.css",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\css\\dorang.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\imgs\\.DS_Store",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\imgs\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\imgs\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\imgs\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\imgs\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\imgs\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\imgs\\footer.jpg",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\imgs\\footer.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\imgs\\header-light.jpg",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\imgs\\header-light.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\imgs\\header.jpg",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\imgs\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\imgs\\img-1.jpg",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\imgs\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\imgs\\img-2.jpg",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\imgs\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\imgs\\img-3.jpg",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\imgs\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\imgs\\placeholder.svg",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\imgs\\placeholder.svg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\js\\dorang.js",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\js\\dorang.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\abstracts\\_mixins.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\abstracts\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\abstracts\\_variables.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\abstracts\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\abstracts\\mixins\\_transitions.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\abstracts\\mixins\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\base\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\components\\_contact-form.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\components\\_contact-form.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\components\\_modal.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\components\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\components\\_navbars.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\components\\_navbars.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\dorang.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\dorang.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\layout\\_sections.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\layout\\_sections.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\themes\\_dark.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\themes\\_dark.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\themes\\_light.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\themes\\_light.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_card.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_close.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_code.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_images.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_media.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_print.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_root.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_type.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\bootstrap\\bootstrap.affix.js",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\bootstrap\\bootstrap.affix.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\bootstrap\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\bootstrap\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\bootstrap\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\bootstrap\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\bootstrap\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\bootstrap\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\bootstrap\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\bootstrap\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\bootstrap\\bootstrap.js",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\bootstrap\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\bootstrap\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\bootstrap\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\bootstrap\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\bootstrap\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.js",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.min.map",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.slim.js",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.slim.min.js",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.slim.min.map",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\jquery\\jquery-3.4.1.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\themify-icons\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\themify-icons\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\assets\\vendors\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\assets\\vendors\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\dorang\\public_html\\index.html",
+      "PackagePath": "staticwebassets\\dorang\\public_html\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\img\\Tadic.jpg",
+      "PackagePath": "staticwebassets\\img\\Tadic.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\img\\bina.jpeg",
+      "PackagePath": "staticwebassets\\img\\bina.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\img\\deprem.jpg",
+      "PackagePath": "staticwebassets\\img\\deprem.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\img\\fred.jpg",
+      "PackagePath": "staticwebassets\\img\\fred.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\img\\fırtına.jpg",
+      "PackagePath": "staticwebassets\\img\\fırtına.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\img\\fırtına2.jpeg",
+      "PackagePath": "staticwebassets\\img\\fırtına2.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\img\\havadurumu.jpg",
+      "PackagePath": "staticwebassets\\img\\havadurumu.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\img\\okan.jpeg",
+      "PackagePath": "staticwebassets\\img\\okan.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\img\\rusya.jpg",
+      "PackagePath": "staticwebassets\\img\\rusya.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\paradise-island-1983\\css\\style.css",
+      "PackagePath": "staticwebassets\\paradise-island-1983\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\paradise-island-1983\\images\\background.jpg",
+      "PackagePath": "staticwebassets\\paradise-island-1983\\images\\background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\paradise-island-1983\\images\\container-background.jpg",
+      "PackagePath": "staticwebassets\\paradise-island-1983\\images\\container-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\paradise-island-1983\\images\\footer-background.jpg",
+      "PackagePath": "staticwebassets\\paradise-island-1983\\images\\footer-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\paradise-island-1983\\images\\header-background.jpg",
+      "PackagePath": "staticwebassets\\paradise-island-1983\\images\\header-background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\paradise-island-1983\\index.html",
+      "PackagePath": "staticwebassets\\paradise-island-1983\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\ncirp\\source\\repos\\BreakingNews_Core7.0\\wwwroot\\paradise-island-1983\\pleaseread.txt",
+      "PackagePath": "staticwebassets\\paradise-island-1983\\pleaseread.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.BreakingNews_Core7.0.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.BreakingNews_Core7.0.props",
+      "PackagePath": "build\\BreakingNews_Core7.0.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.BreakingNews_Core7.0.props",
+      "PackagePath": "buildMultiTargeting\\BreakingNews_Core7.0.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.BreakingNews_Core7.0.props",
+      "PackagePath": "buildTransitive\\BreakingNews_Core7.0.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

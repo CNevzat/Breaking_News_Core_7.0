@@ -1,0 +1,41 @@
+﻿@using BreakingNews_Core7._0.Models.Entity;
+@model List<News>
+@{
+    ViewData["Title"] = "NewsByCategory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1></h1>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Dark Grunge</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+    <link rel="stylesheet" type="text/css" href="~/dark-grunge/style.css" />
+</head>
+<body>
+    <div id="wrapper">
+        <div id="nav">
+            <h1>Detaylar... </h1>
+            @foreach (var item in Model)
+            {
+                <img src="@item.ImageURL" alt="" style="border-radius:7px; border:1px; solid #bbb9b9;
+                             max-width:800px; max-height:300px;" />
+                <div id="content">
+                    <h2>@item.Title</h2>
+                    <p>@item.Content</p>
+                    <h5>Kategori: @item.Category.Name</h5>
+                    <br />
+                    <h5>Tarih: @item.Date.ToShortDateString()</h5>
+                </div>
+                <br />
+                <br />
+                <br />
+            }
+        </div>
+       
+    </div>
+</body>
+</html>
+

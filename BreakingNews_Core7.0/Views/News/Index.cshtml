@@ -1,0 +1,125 @@
+﻿@using BreakingNews_Core7._0.Models.Entity;
+@model List<News>
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Start your development with Dorang landing page.">
+    <meta name="author" content="Devcrud">
+    <title>Dorang | Free Bootstrap 4.3.x template</title>
+    <!-- font icons -->
+    <link rel="stylesheet" href="~/dorang/public_html/assets/vendors/themify-icons/css/themify-icons.css">
+
+    <!-- Bootstrap + Dorang main styles -->
+    <link rel="stylesheet" href="~/dorang/public_html/assets/css/dorang.css">
+
+</head>
+<body data-spy="scroll" data-target=".navbar" data-offset="40" id="home" class="dark-theme">
+
+    <!-- page navbar -->
+    <div class="theme-selector">
+        <a href="javascript:void(0)" class="spinner">
+            <i class="ti-paint-bucket"></i>
+        </a>
+        <div class="body">
+            <a href="javascript:void(0)" class="light"></a>
+            <a href="javascript:void(0)" class="dark"></a>
+        </div>
+    </div>
+
+    <!-- page header -->
+    <header class="header">
+        <div class="overlay"></div>
+        <div class="header-content">
+            <h1 class="header-title">Dünyada Neler Oluyor ? </h1>
+            <p class="header-subtitle">
+                Bir çok kategoride anlık gelişmeleri sizlere aktarıyoruz. Daha iyi bir dünya için takipte kalın
+            </p>
+
+
+        </div>
+    </header><!-- end of page header -->
+    <!-- modal -->
+
+    <!-- page container -->
+    <div class="container page-container">
+        <div class="col-md-10 col-lg-8 m-auto">
+            <h6 class="title mb-4">Olup bitenleri keşfet</h6>
+            <p class="mb-5">
+              Anlaşmalı olduğumuz bir çok haber ajansı ile sizlere daha iyi bir hizmet vermek için çalışıyoruz. Anlık gelişmeleri, 7/24
+              sizlerle paylaşıyor ve yorumlarınızı dikkatle değerlendiriyoruz.Lütfen görüş ve önerilerinizi
+              bizimle paylaşın. Siz değerli kullanıcılarımız yarınlarımız için çok değerlisiniz.
+            </p>
+        </div>
+        <div class="row mb-4">
+        @foreach (var item in Model)              
+        {
+        
+            <div class="col-md-4">
+                <a href="javascript:void(0)" class="overlay-img">
+                     
+                            <img src="@item.ImageURL" style="border-radius:7px; border:1px; solid #bbb9b9;
+                             max-width:500px; max-height:150px;" />
+                    <div class="overlay"></div>
+                    <div class="des">
+                      <a asp-controller="News" asp-action="Details" asp-route-id="@item.ID"> <h1 class="title">@item.Title</h1> </a>
+                        <h6 class="subtitle">
+                            @item.Date.ToShortDateString()
+                            @item.Category.Name
+                            <a asp-controller="News" asp-action="Update" asp-route-id="@item.ID" style="btn btn-primary">Düzenle</a>
+                        </h6>
+                    </div>
+                </a>
+                    <a asp-controller="News" asp-action="Details" asp-route-id="@item.ID">Haberin Devamı <i class="ti-angle-double-right angle"></i></a>
+            </div>
+        }
+        </div>
+    <!-- end of row -->
+    <div class="contact-section">
+        <div class="overlay"></div>
+        <!-- container -->
+        <div class="container">
+            <div class="col-md-10 col-lg-8 m-auto">
+                <h6 class="title mb-2">Bizimle İletişime Geçin</h6>
+                <p class="mb-5">Görüşleriniz bizler için çok değerli</p>
+                <form action="" class="form-group">
+                    <input type="text" size="50" class="form-control" placeholder="İsim Soyisim giriniz" required>
+                    <input type="email" class="form-control" placeholder="Email adresinizi giriniz" requried>
+                    <textarea name="comment" id="comment" rows="6" class="form-control" placeholder="Görüşlerinizi yazınız"></textarea>
+                    <input type="submit" value="Mesaj Gönder" class="form-control">
+                </form>
+            </div>
+
+            <!-- footer -->
+            <footer class="footer">
+                <p class="infos">&copy; <script>document.write(new Date().getFullYear())</script>, Made with <i class="ti-heart text-danger"></i> by <a href="http://www.devcrud.com">DevCRUD</a></p>
+                <span>|</span>
+                <div class="links">
+                    <a href="#">About</a>
+                    <a href="#">Explore</a>
+                    <a href="#">Journal</a>
+                </div>
+            </footer><!-- end of footer -->
+
+        </div><!-- end of container -->
+    </div><!-- end of pre footer -->
+    <!-- core  -->
+    <script src="~/dorang/public_html/assets/vendors/jquery/jquery-3.4.1.js"></script>
+    <script src="~/dorang/public_html/assets/vendors/bootstrap/bootstrap.bundle.js"></script>
+
+    <!-- bootstrap affix -->
+    <script src="~/dorang/public_html/assets/vendors/bootstrap/bootstrap.affix.js"></script>
+
+    <!-- Dorang js -->
+    <script src="~/dorang/public_html/assets/js/dorang.js"></script>
+
+</body>
+</html>
+
+
+
